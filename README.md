@@ -1,4 +1,4 @@
-# Word Guesser Game
+# Word Guesser 
 
 This is a simple word guessing game.
 
