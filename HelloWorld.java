@@ -1,6 +1,6 @@
 import java.util.Scanner; // imported Scanner --> used to read user input...
 
-public class HelloWorld { // Word-Guesser-Game is included inside a class named "HelloWorld".
+public class WordGuesser { 
 
     /*
     
